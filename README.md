@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Would Love Swimming!
 
+<img width="91" height="91" src="https://img.icons8.com/external-others-bomsymbols-/91/external-stack-big-data-bluetone-others-bomsymbols-.png" alt="external-stack-big-data-bluetone-others-bomsymbols-"/>
+
 ## {...} My Stack
 
 ```json
@@ -44,14 +46,18 @@ Here are some ideas to get you started:
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-    <img src="https://img.icons8.com/color/48/000000/python.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+    <img src="https://img.icons8.com/color/48/000000/python.png"/>  
     <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+    <img src="https://img.icons8.com/color/48/000000/sql.png"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/42px-Scikit_learn_logo_small.svg.png"/>
+    <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> 
+    <img src="https://img.icons8.com/color/48/000000/keras.png"/>
     <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/>  
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/32px-OpenCV_Logo_with_text_svg_version.svg.png"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo.svg/40px-Former_Ubuntu_logo.svg.png"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/42px-Pandas_mark.svg.png"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/42px-Scikit_learn_logo_small.svg.png"/>
     
 </p>
+
+<a href="https://icons8.com/icon/etDbnblI8gxb/stack">Stack</a> icon by <a href="https://icons8.com">Icons8</a></small>
