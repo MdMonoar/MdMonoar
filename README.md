@@ -2,9 +2,9 @@
 ### 👋 Hi there, This is Manuar.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixabay.com/illustrations/web-network-programming-3706563/">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixabay.com/illustrations/web-network-programming-3706563/">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://pixabay.com/illustrations/web-network-programming-3706563/">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MdMonoar/MdMonoar/github_profile_banner_web-3706563_1920.jpg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MdMonoar/MdMonoar/github_profile_banner_web-3706563_1920.jpg">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/MdMonoar/MdMonoar/github_profile_banner_web-3706563_1920.jpg">
 </picture>
 
 <!--
