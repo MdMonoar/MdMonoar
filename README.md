@@ -7,6 +7,7 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/MdMonoar/MdMonoar/main/github_profile_banner_web-3706563_1920.jpg">
 </picture>
 -->
+<p align='center'> <img src="github_profile_banner_web-3706563_1920.jpg"> </p>
 
 ### 👋 Hi there, This is Manuar
 
