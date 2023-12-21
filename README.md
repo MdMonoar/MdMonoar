@@ -9,17 +9,20 @@
 -->
 <div align='center'> <img src="github_profile_banner_web-3706563_1920.jpg"> </div>
 
-<div align="center"><h3>👋 Hi there, This is Manuar</h3></div>
+<br>
 
+<div align="center"><h1>👋 Hi there, This is Manuar</h1></div>
+<p>I am passionate about cutting edge technologies such as <b>Artificial Intelligence</b>, a <b>Practitioner</b> of <b>Computer Vision</b>, <b>Machine Learning</b> and <b>Natural Language Processing</b>. A <b>Data Science</b> Enthusiast.</p>
 <!--
 **MdMonoar/MdMonoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <br>
-Here are some ideas to get you started:
+
+## 🧔🏻 A Glimpse of Me
 
 - 🔭 I’m currently working on **Computer Vision and Macine Learning**
-- 🌱 I’m currently learning **Computer Vision**
-- 👯 I’m looking to collaborate on **CV & ML Projects**
+- 🌱 I’m currently learning **Computer Vision Algorithms**
+- 👯 I’m looking to collaborate on **Ai Projects**
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: You already reached!
@@ -28,7 +31,7 @@ Here are some ideas to get you started:
 
 <br>
 
-## 🚀 Languages and Tools:
+## 🚀 Languages and Tools
 
 <p align="left"> 
     <img src="https://skillicons.dev/icons?i=c,python,javascript"/>
