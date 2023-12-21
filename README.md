@@ -56,11 +56,17 @@ Here are some ideas to get you started:
    "Web Skills":["HTML", "CSS", "BootStrap"]
    "Web framework":["Django"],
    "Experimenting": [...],
-   "OS system":["Linux","Windows"],
+   "Operating Systems":["Linux","Windows"],
    "Software/Tools":["VS code","Jupyter Notebook","Kaggle","Google Colab"],
    "Version Control":["Git","Github"],
    "Project Management":["Trello"]
 }
 ```
+.
+<br>
+.
+<br>
+.
+<br>
 
-<font size='1'> <a href="https://icons8.com/icon/etDbnblI8gxb/stack">Stack</a> icon by <a href="https://icons8.com">Icons8</a> </font>
+###### <font size='1'> <a href="https://icons8.com/icon/etDbnblI8gxb/stack">Stack</a> icon by <a href="https://icons8.com">Icons8</a> </font>
