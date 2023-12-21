@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Computer Vision and Macine Learning**
 - 🌱 I’m currently learning **Computer Vision**
-- 👯 I’m looking to collaborate on **ML & CV Projects**
+- 👯 I’m looking to collaborate on **CV & ML Projects**
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: you already reached!
