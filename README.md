@@ -25,3 +25,34 @@ Here are some ideas to get you started:
 - 📫 How to reach me: you already reached!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Would Love Swimming!
+
+## {...} My Stack
+
+```json
+{
+   "languages": ["C","Python","JavaScript","SQL"],
+   "ai frameworks":["Scikit-learn","TensorFlow","Keras"],
+   "Web framework":["Django"],
+   "experimenting": ["Django"],
+   "OS system":["Linux","Windows"],
+   "Software/Tools":["VS code","Jupyter Notebook","Kaggle","Google Colab"],
+   "Version Control":["Git","Github"],
+   "Project Management":["Trello"]
+}
+```
+
+
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <img src="https://img.icons8.com/color/48/000000/python.png"/> 
+    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> 
+    <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
+    <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/>
+    <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/32px-OpenCV_Logo_with_text_svg_version.svg.png"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo.svg/40px-Former_Ubuntu_logo.svg.png"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/42px-Pandas_mark.svg.png"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/42px-Scikit_learn_logo_small.svg.png"/>
+    
+</p>
