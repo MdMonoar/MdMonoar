@@ -7,11 +7,10 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/MdMonoar/MdMonoar/main/github_profile_banner_web-3706563_1920.jpg">
 </picture>
 -->
-<p align='center'> <img src="github_profile_banner_web-3706563_1920.jpg"> </p>
+<div align='center'> <img src="github_profile_banner_web-3706563_1920.jpg"> </div>
 
-### 👋 Hi there, This is Manuar
+<div align="center"><h3>👋 Hi there, This is Manuar</h3></div>
 
-<p><img src="https://github.com/MdMonoar/MdMonoar/main/github_profile_banner_web-3706563_1920.jpg"></p>
 <!--
 **MdMonoar/MdMonoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -22,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **CV & ML Projects**
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: you already reached!
+- 📫 How to reach me: You already reached!
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Would Love Swimming!
 
