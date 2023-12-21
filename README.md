@@ -57,7 +57,6 @@ Here are some ideas to get you started:
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/32px-OpenCV_Logo_with_text_svg_version.svg.png"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo.svg/40px-Former_Ubuntu_logo.svg.png"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/42px-Pandas_mark.svg.png"/>
-    
 </p>
 
-<a href="https://icons8.com/icon/etDbnblI8gxb/stack">Stack</a> icon by <a href="https://icons8.com">Icons8</a></small>
+<p style="font-size:10%;"><a href="https://icons8.com/icon/etDbnblI8gxb/stack">Stack</a> icon by <a href="https://icons8.com">Icons8</a></p>
