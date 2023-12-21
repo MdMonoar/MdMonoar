@@ -7,6 +7,7 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/MdMonoar/MdMonoar/main/github_profile_banner_web-3706563_1920.jpg">
 </picture>
 
+<p><img src="https://github.com/MdMonoar/MdMonoar/main/github_profile_banner_web-3706563_1920.jpg"></p>
 <!--
 **MdMonoar/MdMonoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
