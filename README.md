@@ -14,6 +14,7 @@
 <!--
 **MdMonoar/MdMonoar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+<br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Computer Vision and Macine Learning**
@@ -25,45 +26,41 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Would Love Swimming!
 
+<br>
 
-<div>
-  <h3>🗃 My Stack</h3>
-</div>
+## 🚀 Languages and Tools:
+
+<p align="left"> 
+    <img src="https://skillicons.dev/icons?i=c,python,javascript"/>
+    <img src="https://img.icons8.com/color/48/000000/sql.png"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/42px-Scikit_learn_logo_small.svg.png"/>
+    <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> 
+    <img width="48" height="48" src="https://img.icons8.com/material-sharp/48/000000/keras.png" alt="keras"/>
+    <img src="https://img.icons8.com/color/48/000000/numpy.png"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/42px-Pandas_mark.svg.png"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/32px-OpenCV_Logo_with_text_svg_version.svg.png"/>
+    <img src="https://skillicons.dev/icons?i=django,html,css,bootstrap,vscode"/>
+    <img src="https://skillicons.dev/icons?i=git,github"/>
+    <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/>  
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo.svg/40px-Former_Ubuntu_logo.svg.png"/>
+</p>
+
+<br>
+
+## 🗃 My Stack
 
 ```json
 {
    "Languages": ["C","Python","JavaScript","SQL"],
-   "ai frameworks":["Scikit-learn","TensorFlow","Keras"],
+   "ML frameworks & Libraries":["Scikit-learn","TensorFlow","Keras","Numpy","Pandas","Matplotlib","OpenCV"],
+   "Web Skills":["HTML", "CSS", "BootStrap"]
    "Web framework":["Django"],
-   "Experimenting": ["Django"],
+   "Experimenting": [...],
    "OS system":["Linux","Windows"],
    "Software/Tools":["VS code","Jupyter Notebook","Kaggle","Google Colab"],
    "Version Control":["Git","Github"],
    "Project Management":["Trello"]
 }
 ```
-<svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0,0,256,256">
-<g fill="#ff0000" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><g transform="scale(10.66667,10.66667)"><path d="M3,3v18h18v-18zM16.51,18h-1.5l-3.53,-5.28l-1.48,1.88v3.4c-0.17,0.01 -1.6,0.01 -2,0v-12c0.9,-0.01 1.31,0.01 2,0v4.83l4,-4.83h1.49l0.51,1l-3.07,3.89l4.08,6.11z"></path></g></g>
-</svg>
 
-<div><svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0,0,256,256">
-<g fill="#ff0000" fill-rule="nonzero" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="10" stroke-dasharray="" stroke-dashoffset="0" font-family="none" font-weight="none" font-size="none" text-anchor="none" style="mix-blend-mode: normal"><g transform="scale(10.66667,10.66667)"><path d="M3,3v18h18v-18zM16.51,18h-1.5l-3.53,-5.28l-1.48,1.88v3.4c-0.17,0.01 -1.6,0.01 -2,0v-12c0.9,-0.01 1.31,0.01 2,0v4.83l4,-4.83h1.49l0.51,1l-3.07,3.89l4.08,6.11z"></path></g></g>
-</svg></div>
-
-## 🚀 Languages and Tools:
-
-<p align="left"> 
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png", alt_text='C'/>
-    <img src="https://img.icons8.com/color/48/000000/python.png"/>  
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/sql.png"/> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/42px-Scikit_learn_logo_small.svg.png"/>
-    <img src="https://img.icons8.com/color/48/000000/tensorflow.png"/> 
-    <img src="https://img.icons8.com/color/48/000000/keras.png"/>
-    <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/>  
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/32px-OpenCV_Logo_with_text_svg_version.svg.png"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Former_Ubuntu_logo.svg/40px-Former_Ubuntu_logo.svg.png"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/42px-Pandas_mark.svg.png"/>
-</p>
-
-<p style="font-size:10%;"><a href="https://icons8.com/icon/etDbnblI8gxb/stack">Stack</a> icon by <a href="https://icons8.com">Icons8</a></p>
+<font size='1'> <a href="https://icons8.com/icon/etDbnblI8gxb/stack">Stack</a> icon by <a href="https://icons8.com">Icons8</a> </font>
