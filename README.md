@@ -6,6 +6,7 @@
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/MdMonoar/MdMonoar/main/github_profile_banner_web-3706563_1920.jpg">
 </picture>
 -->
+![github](https://img.shields.io/badge/Manuar-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 <div align='center'> <img src="github_profile_banner_web-3706563_1920.jpg"> </div>
 
