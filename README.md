@@ -26,7 +26,7 @@
 - 👯 I’m looking to collaborate on **Ai Projects**
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: You already reached!
+- 📫 How to reach me: Feel free to connect or leave a message [here](https://www.linkedin.com/in/mm-zaman/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Would Love Swimming!
 
